@@ -7,3 +7,5 @@ We will:
 - Keep track of the minimum price so far.
 - At each step, calculate the profit if we sold on the current day.
 - Update the maximum profit if the current profit is higher.
+
+Skills : Data Structures and Algorithms, C (Programming language), C++
